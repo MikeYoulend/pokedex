@@ -25,14 +25,14 @@ body {
 .left-content {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(200px, 0.5fr));
-	grid-gap: 2rem;
+	grid-gap: 4rem;
 }
 
 .card {
 	width: 300px;
 	background-color: #9edef9;
 	border-radius: 1rem;
-	box-sizing: 0 5px 5px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 5px 5px rgba(7, 2, 2, 0.863);
 	padding: 0 1.5rem;
 	display: flex;
 	align-items: center;
