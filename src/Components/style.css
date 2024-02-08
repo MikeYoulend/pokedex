@@ -39,3 +39,22 @@ body {
 	justify-content: center;
 	box-sizing: border-box;
 }
+
+.right-content {
+	width: 50%;
+	text-align: center;
+	color: black;
+	position: fixed;
+	top: 100px;
+	right: 10px;
+}
+
+.right-content img {
+	margin: 2rem;
+}
+
+.right-content h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
